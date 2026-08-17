@@ -53,11 +53,12 @@ Good software is software that works.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" width="56" height="56" alt="Notion" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg" width="56" height="56" alt="npm" />
+  &nbsp;
+  <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/miro.svg" width="56" height="56" alt="npm" />
+
 </p>
 
 <p>
   <code>Robot Framework</code>
-  &nbsp;
-  <code>Miro</code>
 </p>
 
