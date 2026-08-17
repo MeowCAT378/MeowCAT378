@@ -1,6 +1,9 @@
-# Yothin Sisaitham (Yoo)
+# Yothin Sisaitham (Yoo) 🐱
 
-**Software Developer**
+**Full-Stack Developer**
+
+I build things that work — from frontend interfaces to backend APIs and databases.
+I enjoy connecting systems, deploying projects, and seeing them run in the real world.
 
 Let's make it happen.
 
@@ -72,7 +75,7 @@ Let's make it happen.
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MeowCAT378&show_icons=true&hide_border=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=MeowCAT378&show_icons=true&hide_border=true&cache_seconds=86400&v=1"
     alt="Yothin's GitHub stats"
   />
 </p>
