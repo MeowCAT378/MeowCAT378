@@ -38,7 +38,7 @@ Good software is software that works.
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="56" height="56" alt="Laravel" />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=socketio&theme=dark" width="56" height="56" alt="Socket.io" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="56" height="56" alt="Socket.io" />
 </p>
 
 ### Database & ORM
