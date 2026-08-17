@@ -20,6 +20,8 @@ Good software is software that works.
   &nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="56" height="56" alt="React" />
   &nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="56" height="56" alt="Next.js" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" width="56" height="56" alt="Vue.js" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="56" height="56" alt="Tailwind CSS" />
@@ -51,8 +53,6 @@ Good software is software that works.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="56" height="56" alt="Postman" />
   &nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" width="56" height="56" alt="Notion" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg" width="56" height="56" alt="npm" />
   &nbsp;
   <img src="https://github.com/brunoliratm/skill-icons/blob/main/icons/miro.svg" width="56" height="56" alt="npm" />
 
