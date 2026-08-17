@@ -69,8 +69,5 @@ Good software is software that works.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Npm-Dark.svg" width="56" height="56" alt="npm" />
 </p>
 
-## Contact
-
-[yothin.sisa@gmail.com](mailto:yothin.sisa@gmail.com)
 
 
