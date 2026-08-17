@@ -5,7 +5,7 @@
 I build things that work — from frontend interfaces to backend APIs and databases.
 I enjoy connecting systems, deploying projects, and seeing them run in the real world.
 
-Let's make it happen.
+Good software is software that works.
 
 ## Tech Stack
 
