@@ -70,12 +70,3 @@ Let's make it happen.
 ## Contact
 
 [yothin.sisa@gmail.com](mailto:yothin.sisa@gmail.com)
-
-## GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MeowCAT378&show_icons=true&hide_border=true&cache_seconds=86400&v=1"
-    alt="Yothin's GitHub stats"
-  />
-</p>
